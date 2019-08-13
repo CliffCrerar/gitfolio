@@ -39,12 +39,12 @@ projects:
   # mastodon: @cliffcrerar
   # medium: https://medium.com/@cliff.crerar/highlights
   # stackoverflow: https://stackoverflow.com/users/5599914/cliff-crerar
-  # telegram: your_username
+  # telegram: cliffcrerar
   # twitter: https://twitter.com/Cliffenator
   # unsplash: your_username
   # vk: your_username
-  # website: https://cliff-crerar.tech/
-  # youtube: MrBeamerguy
+  website: https://cliff-crerar.tech/
+  youtube: MrBeamerguy
 
 topics:
   - name: CSS
