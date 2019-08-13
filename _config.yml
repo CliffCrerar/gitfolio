@@ -29,11 +29,11 @@ projects:
     # - repo-name
 
   social_media:
-  # behance: https://www.behance.net/cliff-crerar
-  # dribbble: https://dribbble.com/cliffenator/buckets
-  # facebook: https://www.facebook.com/cliff.crerar
-  # hackerrank: your_username
-  # instagram: https://www.instagram.com/cliffenator/
+    behance: https://www.behance.net/cliff-crerar
+    dribbble: https://dribbble.com/cliffenator/buckets
+    facebook: https://www.facebook.com/cliff.crerar
+    hackerrank: your_username
+    instagram: https://www.instagram.com/cliffenator/
   # keybase: your_username
   # linkedin: https://www.linkedin.com/in/cliff-crerar/
   # mastodon: @cliffcrerar
@@ -43,8 +43,8 @@ projects:
   # twitter: https://twitter.com/Cliffenator
   # unsplash: your_username
   # vk: your_username
-  website: https://cliff-crerar.tech/
-  youtube: MrBeamerguy
+    website: https://cliff-crerar.tech/
+    youtube: MrBeamerguy
 
 topics:
   - name: CSS
