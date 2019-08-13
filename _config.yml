@@ -21,14 +21,14 @@ projects:
   # sort_by options:
   #   - pushed
   #   - stars
-  limit: 9
+  limit: none  
   exclude:
     archived: false
     forks: true
     projects:
     # - repo-name
 
-# social_media:
+  social_media:
   # behance: https://www.behance.net/cliff-crerar
   # dribbble: https://dribbble.com/cliffenator/buckets
   # facebook: https://www.facebook.com/cliff.crerar
