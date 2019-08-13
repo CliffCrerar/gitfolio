@@ -28,31 +28,31 @@ projects:
     projects:
     # - repo-name
 
-  social_media:
-    behance: cliff-crerar
-    dribbble: cliffenator
-    facebook: cliff.crerar
-    hackerrank: your_username
-    instagram: cliffenator/
-  # keybase: your_username
-  # linkedin: https://www.linkedin.com/in/cliff-crerar/
-  # mastodon: @cliffcrerar
-  # medium: https://medium.com/@cliff.crerar/highlights
-  # stackoverflow: https://stackoverflow.com/users/5599914/cliff-crerar
-  # telegram: cliffcrerar
-  # twitter: https://twitter.com/Cliffenator
-  # unsplash: your_username
-  # vk: your_username
-    website: https://cliff-crerar.tech/
-    youtube: MrBeamerguy
-  
+social_media:
+  behance: cliff-crerar
+  dribbble: cliffenator
+  facebook: cliff.crerar
+  hackerrank: your_username
+  instagram: cliffenator/
+  keybase: your_username
+  linkedin: cliff-crerar/
+  mastodon: @cliffcrerar
+  medium: @cliff.crerar
+  stackoverflow: cliff-crerar
+  telegram: cliffcrerar
+  twitter: Cliffenator
+  unsplash: your_username
+  vk: your_username
+  website: https://cliff-crerar.tech/
+  youtube: MrBeamerguy
+
 topics:
-  - name: CSS
-    web_url: https://github.com/topics/css
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png
+- name: CSS
+  web_url: https://github.com/topics/css
+  image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png
 
-  - name: Web design
+- name: Web design
 
-  - name: Sass
-    web_url: https://github.com/topics/sass
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
+- name: Sass
+  web_url: https://github.com/topics/sass
+  image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
