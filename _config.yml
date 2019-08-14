@@ -9,8 +9,7 @@ plugins:
 permalink: /:year/:month/:day/:title/
 
 defaults:
-  -
-    scope:
+  - scope:
       path: "" # an empty string here means all files in the project
       type: "posts"
     values:
@@ -33,17 +32,17 @@ social_media:
   dribbble: cliffenator
   facebook: cliff.crerar
   hackerrank: your_username
-  instagram: cliffenator/
+  instagram: cliffenator
   keybase: your_username
-  linkedin: cliff-crerar/
-  mastodon: @cliffcrerar
-  medium: @cliff.crerar
+  linkedin: cliff-crerar
+  mastodon: cliffcrerar
+  medium: cliff.crerar
   stackoverflow: cliff-crerar
   telegram: cliffcrerar
   twitter: Cliffenator
   unsplash: your_username
   vk: your_username
-  website: https://cliff-crerar.tech/
+  website: https://cliff-crerar.tech
   youtube: MrBeamerguy
 
 topics:
