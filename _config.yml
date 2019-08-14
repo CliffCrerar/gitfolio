@@ -16,7 +16,7 @@ defaults:
       layout: "post"
 
 projects:
-  sort_by: pushed
+  sort_by: stars
   # sort_by options:
   #   - pushed
   #   - stars
@@ -31,27 +31,53 @@ social_media:
   behance: cliff-crerar
   dribbble: cliffenator
   facebook: cliff.crerar
-  hackerrank: your_username
+  # hackerrank: your_username
   instagram: cliffenator
-  keybase: your_username
+  # keybase: your_username
   linkedin: cliff-crerar
   mastodon: cliffcrerar
   medium: cliff.crerar
   stackoverflow: cliff-crerar
   telegram: cliffcrerar
   twitter: Cliffenator
-  unsplash: your_username
-  vk: your_username
+  # unsplash: your_username
+  # vk: your_username
   website: https://cliff-crerar.tech
   youtube: MrBeamerguy
 
 topics:
-- name: CSS
-  web_url: https://github.com/topics/css
-  image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png
+- name: Amazon Web Services
+  web_url: https://youtu.be/RPis5mbM8c8
+  image_url: https://i.imgur.com/eeYUFCO.jpg
 
-- name: Web design
+- name: Google Cloud Platform
+  web_url: https://youtu.be/cKUeV6FJP_U
+  image_url: https://shinesg.files.wordpress.com/2018/09/google-cloud-platform.png
 
-- name: Sass
-  web_url: https://github.com/topics/sass
-  image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
+- name: MS Azure Cloud Platform
+  web_url: https://youtu.be/KXkBZCe699A
+  image_url: https://www.yobyot.com/wp-content/uploads/2018/05/azurelogo-300x242.jpg
+
+- name: NextJS & React
+  web_url: https://nextjs.org/docs
+  image_url: https://www.honext.io/static/images/next_logo.png
+  
+- name: Angular
+  web_url: https://angular.io/
+  image_url: https:angular.io/assets/images/logos/angular/angular.svg
+  
+- name: User experience design
+  web_url: https://www.interaction-design.org/literature/topics/ux-design
+  image_url: https://images.techhive.com/images/article/2016/08/ecommerce_ux_2-100678246-large.jpg
+  
+- name: Material Design
+  web_url: https://youtu.be/m1diVY4Uzjc
+  image_url: https://misc-webassets.c1i44.now.sh/mat-design.png
+
+- name: Web technology applications
+  web_url: https://www.interaction-design.org/literature/topics/web-design
+  image_url: https://1z2y5h3h3ees3m9gz33a9jbx-wpengine.netdna-ssl.com/wp-content/uploads/2018/02/web-design-agency-cape-town.jpg
+
+- name: Coding
+  web_url: https://youtu.be/cKhVupvyhKk
+  image_url: https://freeiconshop.com/wp-content/uploads/edd/code-flat.png
