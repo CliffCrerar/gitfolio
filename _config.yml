@@ -22,9 +22,30 @@ projects:
   #   - stars
   limit: 100  
   exclude:
-    archived: false
+    archived: true
     forks: true
     projects:
+    - VSCODE_EXE
+    - vscode-fonts
+    - React-app-Material-UI
+    - Material-ui-themes
+    - TQ_client
+    - fonts_evaluation
+    - gitfolio
+    - admin-pages
+    - ud_JS_understanding_the_weird_parts
+    - TQ_admin
+    - 1610-BJJ
+    - this-is-where-i-write
+    - site-terms-policies
+    - privacy-and-terms.cliff-crerar.tech
+    - angular.io-tutorial
+    - pdf-docs-portal
+    - next.js-easy
+    - next.js-blog
+    - admin-pages
+    - temp-demo-sites
+    - nodes-google-cloud-datastore-tutorial
     # - repo-name
 
 social_media:
@@ -42,7 +63,7 @@ social_media:
   twitter: Cliffenator
   # unsplash: your_username
   # vk: your_username
-  website: https://cliff-crerar.tech
+  myportal: https://cliff-crerar.tech
   youtube: MrBeamerguy
 
 topics:
@@ -64,7 +85,7 @@ topics:
   
 - name: Angular
   web_url: https://angular.io/
-  image_url: https:angular.io/assets/images/logos/angular/angular.svg
+  image_url: https://cdn-cloudflare.ga/assets/site-logo/angular/ng-logo.png
   
 - name: User experience design
   web_url: https://www.interaction-design.org/literature/topics/ux-design
