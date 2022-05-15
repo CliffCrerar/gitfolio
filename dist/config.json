@@ -1,21 +1,17 @@
 [
  {
-  "username": "cliffcrerar",
-  "name": "Cliff Crerar",
-  "userimg": "null",
-  "sort": "updated",
+  "username": "CliffCrerar",
+  "name": "C1I7F05D-C53545",
+  "userimg": "https://avatars.githubusercontent.com/u/14926009?v=4",
+  "sort": "created",
   "order": "asc",
   "includeFork": false,
-  "theme": "dark.css",
+  "theme": "light.css",
   "types": [
-   "owner"
+   "all"
   ],
-  "twitter": "https://twitter.com/Cliffenator",
-  "linkedin": "https://www.linkedin.com/in/cliff-crerar/",
-  "medium": "https://medium.com/@c1i44",
-  "dribbble": "https://dribbble.com/cliffenator",
-  "Quora":"https://www.quora.com/profile/Cliff-Crerar",
+  "Quora": "https://www.quora.com/profile/Cliff-Crerar",
   "StackOverflow": "https://stackoverflow.com/users/5599914/cliff-crerar",
-  "Behance":"art.cliffcrerar.com"
+  "Behance": "art.cliffcrerar.com"
  }
 ]
