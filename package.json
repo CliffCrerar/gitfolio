@@ -1,25 +1,32 @@
 {
-  "name": "nextjs-with-typescript",
-  "version": "4.0.0",
-  "private": true,
-  "dependencies": {
-    "@material-ui/core": "latest",
-    "@material-ui/icons": "^4.5.1",
-    "clsx": "latest",
-    "next": "latest",
-    "react": "latest",
-    "react-dom": "latest"
-  },
+  "name": "gitfolio",
+  "version": "1.0.0",
+  "description": "Git project portfolio for Cliff Crerar",
+  "main": "index.js",
+  "bin": "./node_modules/.bin",
   "scripts": {
-    "dev": "next",
-    "build": "next build",
-    "start": "next start"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "gitfolio build cliffcrerar",
+    "start":"gitfolio ui cliffcrerar"
   },
-  "devDependencies": {
-    "@types/next": "latest",
-    "@types/node": "^12.12.8",
-    "@types/react": "latest",
-    "@types/react-dom": "latest",
-    "typescript": "latest"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CliffCrerar/gitfolio.git"
+  },
+  "keywords": [
+    "git",
+    "git",
+    "projects",
+    "gitfolio",
+    "CliffCrerar"
+  ],
+  "author": "Cliff Crerar cliff.crerar@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CliffCrerar/gitfolio/issues"
+  },
+  "homepage": "https://github.com/CliffCrerar/gitfolio#readme",
+  "dependencies": {
+    "gitfolio": "^0.1.5"
   }
 }
