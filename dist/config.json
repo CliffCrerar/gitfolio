@@ -6,9 +6,13 @@
   "sort": "created",
   "order": "asc",
   "includeFork": false,
-  "theme": "light.css",
+  "theme": "dark.css",
   "types": [
-   "all"
-  ]
+   "owner"
+  ],
+  "twitter": "cliffenator",
+  "linkedin": "cliff-crerar",
+  "medium": "c1i44",
+  "dribbble": "cliffenator"
  }
 ]
